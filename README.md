@@ -7,3 +7,6 @@ Ability to create simple html pages in python
 
 #### What will the result look like
 ![example](example.png)
+
+### A more complex example
+![example](true_example.png)
